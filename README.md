@@ -1,7 +1,11 @@
 
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorbgh&theme=dracula&show_icons=true" />
+</p>
+<p align="right">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbgh&langs_count=8" />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorbgh&theme=dracula&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbgh&langs_count=8" />
 
 <p align="left">
   <a href="#" alt="Gmail">
