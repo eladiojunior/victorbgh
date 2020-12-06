@@ -1,13 +1,13 @@
 
 <div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorbgh&theme=dracula&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=victorbgh&theme=dracula&show_icons=true" />
 </div>
 <div align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbgh&langs_count=8" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbgh&langs_count=8" />
 </div>
 
 
-<p align="left">
+<p align="center" width="2000px">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
